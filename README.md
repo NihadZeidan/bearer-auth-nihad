@@ -5,13 +5,13 @@
 
 ### tests report:
 
-[Heroku]()
+[Heroku](https://nihad-bearer-auth.herokuapp.com/)
 
 
-[GitHub PR](https://github.com/NihadZeidan/bearer-auth-lab07/pull/2)
+[GitHub PR](https://github.com/NihadZeidan/bearer-auth-nihad/pull/1)
 
 
-[GitHub Actions]()
+[GitHub Actions](https://github.com/NihadZeidan/bearer-auth-nihad/actions)
 
 ### .env requirements
 
@@ -38,11 +38,17 @@ get `/secret`
 Returns Object
 
 {
+
   user {
+
     "_id": "String",
+
     "username": "String",
+
     "password": "String",
+
   }
+  
 }
 
 
@@ -53,4 +59,4 @@ Unit Tests: `npm test`
 
 ### UML
 
-![](./assets/basic-auth.png)
+![](./node_modules/bearer-auth.png)
