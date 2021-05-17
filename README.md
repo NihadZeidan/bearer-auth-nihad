@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # bearer-auth-nihad
 
-=======
-# bearer-auth
->>>>>>> 9ceac7389a2867dabc27defbe023402a91184ec0
 
 ### Author: Nihad Zeidan
 
@@ -64,8 +60,4 @@ Unit Tests: `npm test`
 
 ### UML
 
-<<<<<<< HEAD
 ![](./assets/bearer-auth.png)
-=======
-![](./node_modules/bearer-auth.png)
->>>>>>> 9ceac7389a2867dabc27defbe023402a91184ec0
