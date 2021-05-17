@@ -1,6 +1,5 @@
 # bearer-auth-nihad
 
-# bearer-auth
 
 ### Author: Nihad Zeidan
 
